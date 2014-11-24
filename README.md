@@ -4,8 +4,8 @@
 
 「世田谷のオープンデータを探せ!!」を合い言葉(?)に、データを探したり/作ったり/提案したりする活動のためのリポジトリです。現在のところ、
 
-- Issue管理
-- 別リポジトリにするまでもない情報のコミット場所
+- [Issueの管理](https://github.com/codeforsetagaya/hub/issues)
+- [Wikiで情報共有](https://github.com/codeforsetagaya/hub/wiki)
 
 として使っています。
 
