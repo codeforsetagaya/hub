@@ -1,6 +1,6 @@
 ![cover](image.png)
 
-# 世田谷Hub (Setagaya Hub)
+# 世田谷Hub ([Setagaya Hub](https://github.com/codeforsetagaya/hub/blob/master/README-en.md))
 
 「世田谷のオープンデータを探せ!!」を合い言葉(?)に、データを探したり/作ったり/提案したりする活動のためのリポジトリです。現在のところ、
 
