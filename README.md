@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeforsetagaya/hub.png?label=ready&title=Ready)](https://waffle.io/codeforsetagaya/hub)
 ![cover](image.png)
 
 # 世田谷Hub ([Setagaya Hub](https://github.com/codeforsetagaya/hub/blob/master/README-en.md))
