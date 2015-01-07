@@ -1,11 +1,11 @@
-[![Stories in Ready](https://badge.waffle.io/codeforsetagaya/hub.png?label=ready&title=Ready)](https://waffle.io/codeforsetagaya/hub)
 ![cover](image.png)
 
-# 世田谷Hub ([Setagaya Hub](https://github.com/codeforsetagaya/hub/blob/master/README-en.md))
+# 世田谷Hub ([Setagaya Hub](https://github.com/codeforsetagaya/hub/blob/master/README-en.md)) [![Stories in Ready](https://badge.waffle.io/codeforsetagaya/hub.png?label=ready&title=Ready)](https://waffle.io/codeforsetagaya/hub)
 
 「世田谷のオープンデータを探せ!!」を合い言葉(?)に、データを探したり/作ったり/提案したりする活動のためのリポジトリです。現在のところ、
 
 - [Issueの管理](https://github.com/codeforsetagaya/hub/issues)
+- [Issueの可視化 (Waffle.io)](https://waffle.io/codeforsetagaya/hub)
 - [Wikiで情報共有](https://github.com/codeforsetagaya/hub/wiki)
 
 として使っています。
